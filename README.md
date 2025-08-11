@@ -20,10 +20,17 @@ The dataset contains the midi files of compositions from well-known classical co
 The proposed project will be implemented using the following steps:
 
 Data Collection: Data is collected and provided to you.
-Data Pre-processing: Convert the musical scores into a format suitable for deep learning models. This involves converting the musical scores into MIDI files and applying data augmentation techniques.
-Feature Extraction: Extract features from the MIDI files, such as notes, chords, and tempo, using music analysis tools.
-Model Building: Develop a deep learning model using LSTM architectures to classify the musical scores according to the composer.
-Model Training: Train the deep learning model using the pre-processed and feature-extracted data.
-Model Evaluation: Evaluate the performance of the deep learning model using accuracy, precision, and recall metrics.
-Model Optimization: Optimize the deep learning model by fine-tuning hyperparameters.
+
+#Data Pre-processing: Convert the musical scores into a format suitable for deep learning models. This involves converting the musical scores into MIDI files and applying data augmentation techniques.
+
+#Feature Extraction: Extract features from the MIDI files, such as notes, chords, and tempo, using music analysis tools.
+
+#Model Building: Develop a deep learning model using LSTM architectures to classify the musical scores according to the composer.
+
+#Model Training: Train the deep learning model using the pre-processed and feature-extracted data.
+
+#Model Evaluation: Evaluate the performance of the deep learning model using accuracy, precision, and recall metrics.
+
+#Model Optimization: Optimize the deep learning model by fine-tuning hyperparameters.
+
 
